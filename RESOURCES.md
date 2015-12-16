@@ -24,6 +24,7 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [What makes CodeDay so great?](https://studentrnd.org/build/what-makes-codeday-so-great)
 - [Hackathons: The Golden Value Prop](https://medium.com/hackathons-anonymous/hackathons-the-golden-value-prop-f9064b47132e)
 - [Hackathons aren’t about the hacks.](https://medium.com/hackathon-hackers/hackathons-arent-about-the-hacks-a2d84bf60a47)
+- [Demystifying the Hackathon](http://www.mckinsey.com/Insights/Innovation/Demystifying_the_hackathon)
 
 ## Hackathon Stories
 
@@ -43,9 +44,9 @@ Collection of high quality hackathon resources for hackathongoers and hackathon 
 - [How to Run a Hackathon](http://www.recursiverobot.com/post/91272128309/how-to-run-a-hackathon)
 - [Hosting Hackathons: Getting Awesome Sponsors](http://alexeymk.com/hosting-hackathons/)
 - [Running an Inclusive Hackathon](https://medium.com/hackers-and-hacking/running-an-inclusive-hackathon-630f3f2e5e71)
-- [Why hackathons should conclude with a demo](https://medium.com/how-to-throw-a-hackathon/why-hackathons-should-conclude-with-an-expo-635563ceab2f) 
-- [Hackonomics 101: The economics of who pays for a hackathon, and why.](https://medium.com/@alexeymk/hackonomics-101-ad619910b134) 
-- [The Hackathon Budget](https://medium.com/hackers-and-hacking/the-hackathon-budget-d636b5b2ed6c) 
+- [Why hackathons should conclude with a demo](https://medium.com/how-to-throw-a-hackathon/why-hackathons-should-conclude-with-an-expo-635563ceab2f)
+- [Hackonomics 101: The economics of who pays for a hackathon, and why.](https://medium.com/@alexeymk/hackonomics-101-ad619910b134)
+- [The Hackathon Budget](https://medium.com/hackers-and-hacking/the-hackathon-budget-d636b5b2ed6c)
 - [Hackathon Playbook Part 2: How to Organize an Event](https://www.lob.com/blog/hackathon-playbook-part2)
 - [The Hack Day Manifesto](http://hackdaymanifesto.com/)
 - [How we built HackBU at Binghamton University](https://medium.com/@danoc/how-we-built-hackbu-at-binghamton-university-9a637371a476)
